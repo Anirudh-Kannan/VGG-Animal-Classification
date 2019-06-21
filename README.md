@@ -7,7 +7,9 @@ The images have been preprocessed and converted to numpy arrays to reduce the tr
 The results obtained are as follows:
 
 Train Accuracy: 1.00
+
 Test loss: 0.085
+
 Test accuracy: 0.98
 
 #### The final model is stored in the 'model.h5' File.
